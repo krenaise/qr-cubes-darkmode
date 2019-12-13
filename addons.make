@@ -1,2 +1,0 @@
-ofxQR
-ofxQRCodeGenerator
