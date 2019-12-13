@@ -1,0 +1,2 @@
+ofxQR
+ofxQRCodeGenerator
